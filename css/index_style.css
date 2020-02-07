@@ -1,0 +1,17 @@
+body
+{
+    font-family: 'Segoe UI Light';
+}
+.carousel-item img
+{
+    height: 520px;
+}
+.custom-control-input
+{
+  position: static;
+  opacity: 1;
+}
+.filtered-price h4
+{
+    font-weight: 600;
+}
