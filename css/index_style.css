@@ -2,6 +2,14 @@ body
 {
     font-family: 'Segoe UI Light';
 }
+
+header
+{
+    height :620px;
+    background-image: url(../images/gift.jpg);
+    background-size: cover;
+}
+
 .carousel-item img
 {
     height: 520px;
