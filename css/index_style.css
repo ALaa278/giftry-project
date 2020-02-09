@@ -15,3 +15,36 @@ body
 {
     font-weight: 600;
 }
+
+
+.lastsec{
+    background-image: url(../images/img.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h3{font-weight: 900;}
+
+.t7reekcont{
+padding: 100px 50px 0px 50px;
+
+}
+.layerr{width: 100%;  
+ background-color: rgba(36, 105, 255, 0.7) }
+
+.social-icons a
+{
+    color: black;
+    padding:7px 10px;
+    border-radius: 50%;
+    font-size: .875rem;
+    margin: 5px;
+    border: 3px solid #0078ff;  
+}
+a:hover i {color: #09c;}
+
+.badgee{  position: relative;display: flex;justify-content: center;align-items: center;}
+
+.borderr{width:90px;
+    height: 4px;
+    background: #007bff;
+margin-bottom: 30px;}
